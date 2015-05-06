@@ -1,0 +1,60 @@
+<head>
+  <title>tekled</title>
+  <meta charset="utf-8">
+  <title>Interaktiv Quiz</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        {{>sidebar}}
+      </div>
+      <div class="col-md-9">
+        {{>quiz}}
+      </div>
+    </div>
+  </div>
+</body>
+
+<template name="sidebar">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">Eksamener i TIØ4258</h3>
+    </div>
+    <div class="panel-body">
+     <div class="well sidebar-nav">
+      <ul class="nav nav-pills nav-stacked">
+        <li class="{{isActive 'Alle'}}"><a href="" class="change-exam">Alle</a></li>
+        {{#each exams}}
+        <li class="{{isActive title}}"><a href="" class="change-exam">{{title}}</a></li>
+        {{/each}}
+      </ul>
+    </div>
+  </div>
+</div>
+</template>
+
+<template name="quiz">
+  <h3 class="pageheader">Teknologiledelse - eksamen {{exam}}</h3>
+  <div class="progress">
+    <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em; width: {{progress}}">
+      {{progress}}
+    </div>
+  </div>
+  <div class="hero-unit well">
+  {{#with currentQuestion}}
+  <p class="lead">{{{question}}}</p>
+  <button id="0" class="btn btn-default submit-answer"><p>a) {{{alternatives.[0]}}}</p></button><br />
+  <button id="1" class="btn btn-default submit-answer"><p>b) {{{alternatives.[1]}}}</p></button><br />
+  <button id="2" class="btn btn-default submit-answer"><p>c) {{{alternatives.[2]}}}</p></button><br />
+  <button id="3" class="btn btn-default submit-answer"><p>d) {{{alternatives.[3]}}}</p></button>
+  <p>{{explanation}}</p>
+  {{/with}}
+  </div>
+  <div id="summary" >
+    <p>{{points}}</p>
+    <p>{{grade}}</p>
+  </div> 
+</template>
