@@ -46,9 +46,10 @@ Template.quiz.events({
   'click .submit-answer' : function(e, tmpl) {
     var solution = questions[Session.get('questionNum')].solution;
     var chosen = e.currentTarget.id;
-
-    if (Session.get('answered'))
-        loadNextQuestion();
+    e.currentTarget.blur();
+    if (Session.get('answered')) {
+      loadNextQuestion();
+    }
     else {
         Session.set('explanation', questions[Session.get('questionNum')].explaination) ;
         Session.set('answered', true);
@@ -99,7 +100,7 @@ Template.sidebar.events({
 function loadNextQuestion() {
   Session.set('answered', false);
   clearQuestionLayout();
-  if (Session.get('questionNum') + 2 >= questions.length) {
+  if (Session.get('questionNum') + 1 >= questions.length) {
     finished();
     return;
   }
