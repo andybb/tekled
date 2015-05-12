@@ -9,9 +9,7 @@ var exams = _.map(_.keys(exams_data), function(exam) {
   return {'title': exam};
 });
 
-var questions = _.shuffle(_.flatten(_.map(exams_data, function(questions) {
-  return questions;
-})));
+var questions = _.shuffle(_.flatten(_.values(exams_data)));
 
 Template.sidebar.helpers({
   exams: function() {
@@ -39,6 +37,15 @@ Template.quiz.helpers({
   },
   exam : function() {
     return Session.get('current');
+  },
+  explanation : function() {
+    return Session.get('explanation');
+  },
+  numberOfQuestions : function() {
+    return questions.length;
+  },
+  questionNum : function() {
+    return Session.get('questionNum') + 1;
   }
 });
 
@@ -81,14 +88,10 @@ Template.sidebar.events({
     Session.set('questionNum', -1);
     if(this.title === undefined) {
       Session.set('current', 'Alle');
-      questions = _.shuffle(_.flatten(_.map(exams_data , function(questions) {
-        return questions;
-      })));
+      questions = _.shuffle(_.flatten(_.values(exams_data)));
     }
     else {
-      questions = _.flatten(_.map(_.pick(exams_data, Session.get('current')), function(questions) {
-        return questions;
-      }));
+      questions = _.flatten(_.pick(exams_data, Session.get('current')));
     }
     clearQuestionLayout()
     Session.set('questionNum', 0);
