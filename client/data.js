@@ -6147,8 +6147,8 @@ exams_data = {
     "2014 Høst" : [
         {
             "question":"I hvilken fase av sin utvikling kan en oppstartsbedrift forvente å gå “break-even”?",
-            "solution":"-1",
-            "explaination":"No explaination given",
+            "solution":"2",
+            "explaination": "Både C og D regnes som rett. I løpet av, eller mot slutten av early growth-fasen eller I løpet av maturityfasen (begge svarene regnes som riktig pga to ulike betydninger av ordet break-even)",
             "number":"1",
             "alternatives": [
                 "I løpet av start-up fasen",
