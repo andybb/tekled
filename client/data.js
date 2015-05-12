@@ -6142,7 +6142,373 @@ exams_data = {
       "5 000 000"
    ]},
 
-]
+],
+
+    "2014 Høst" : [
+        {
+            "question":"I hvilken fase av sin utvikling kan en oppstartsbedrift forvente å gå “break-even”?",
+            "solution":"-1",
+            "explaination":"No explaination given",
+            "number":"1",
+            "alternatives": [
+                "I løpet av start-up fasen",
+                "Det punktet der bedriften går break-even definerer avslutningen på start-up fasen",
+                "I løpet av, eller mot slutten av early growth-fasen",
+                "Ikke før i maturity-fasen"
+            ]},
+
+        {
+            "question":"Hva er forskjellen på «soft funding» og «hard funding»?",
+            "solution":"1",
+            "explaination":"«Soft funding» er penger du får uten motytelser, mens «hard funding» er…",
+            "number":"2",
+            "alternatives": [
+                "«Soft funding» representerer mindre pengebeløp, mens «hard funding» er de større beløpene",
+                "«Soft funding» er penger du får uten motytelser, mens «hard funding» er penger du får mot å gi fra deg eierskap",
+                "«Soft funding» er tjenester, mens «hard funding» er penger",
+                "«Soft funding» er penger som brukes til lønn, men «hard funding» brukes til utstyr, maskiner og bygninger."
+            ]},
+
+        {
+            "question":"Hvilken av følgende ressurser regnes normalt ikke inn som en oppstarts-bedrifts organisatoriske ressurser?",
+            "solution":"2",
+            "explaination":"Gründerens kompetanse",
+            "number":"3",
+            "alternatives": [
+                "Tillit i markedet",
+                "Et nettverk av mulige kunder",
+                "Gründerens kompetanse",
+                "Bedriftens kultur"
+            ]},
+
+        {
+            "question":"VRIO-rammeverket forteller oss hvilke egenskaper en ressurs må ha dersom den skal gi mulighet for å skape et vedvarende konkurransefortrinn. Hva står R-en i rammeverket for?",
+            "solution":"0",
+            "explaination":"Rare",
+            "number":"4",
+            "alternatives": [
+                "Rare",
+                "Revenue-generating",
+                "Rich",
+                "Random"
+            ]},
+
+        {
+            "question":"Hvor grundig bør produktideen behandles i en forretningsplan?",
+            "solution":"2",
+            "explaination":"Ideen er konkretisert i egenskaper, som er sjekket opp mot mulige...",
+            "number":"5",
+            "alternatives": [
+                "Det bør eksistere en prototype",
+                "Ideen eksisterer kun som ide",
+                "Ideen er konkretisert i egenskaper, som er sjekket opp mot mulige kundesegment med tanke på betalingsvillighet og bruksområder",
+                "Detaljert nok til at man kan lage en liste over hva som må kjøpes inn for å lage produktet, og kartlegge hvem som kan levere det man ikke lager selv av deler og innhold."
+            ]},
+
+        {
+            "question":"Hva er vanlige symptomer på at en organisasjon har utfordringer med innovasjonslæring?",
+            "solution":"0",
+            "explaination":"Mistro mot effektiviteten av innovasjon, utfordringer ved gjennomføring…",
+            "number":"6",
+            "alternatives": [
+                "Mistro mot effektiviteten av innovasjon, utfordringer ved gjennomføring av innovasjonsprosjekter, kun prioritering av inkrementell innovasjon, og forbauselse over nivået andre organisasjoner investerer i innovasjon",
+                "Avtakende utbytte av investeringer, umotiverte ansatte og høy utskiftning av ansatte",
+                "Rigide autoritetsstrukturer, høy grad av intern tvetydighet, hyppig bruk av skunk-works, og store investeringer i innovasjons-program",
+                "Høye hierarkier, matrisestruktur, store kontroll-spenn og få registrerte patenter"
+            ]},
+
+        {
+            "question":"Hva er differensiering?",
+            "solution":"3",
+            "explaination":"Prosessen som fordeler mennesker og ressurser, samt etablerer oppgave- og autoritetsrelasjoner",
+            "number":"7",
+            "alternatives": [
+                "Prosessen som etablerer kontroll og spesialisering i en organisasjon",
+                "Prosessen som kontrollerer autoritet og relasjoner i en organisasjon",
+                "Strukturen som beskriver interne makt-relasjoner og autoritet",
+                "Prosessen som fordeler mennesker og ressurser, samt etablerer oppgave- og autoritets-relasjoner"
+            ]},
+
+        {
+            "question":"Hvilke av følgende utsagn om relasjonen mellom organisasjons-størrelse og antall hierarkiske nivå er ikke sann?",
+            "solution":"2",
+            "explaination":"En organisasjon som har få hierarkiske nivåer og få ansatte anses som en flat organisasjon",
+            "number":"8",
+            "alternatives": [
+                "Økningen i antall hierarkiske nivåer er mindre enn proporsjonal med økningen i antall ansatte",
+                "En organisasjon med 3000 ansatte vil i gjennomsnitt ha 7 hierarkiske nivåer",
+                "En organisasjon som har få hierarkiske nivåer og få ansatte anses som en flat organisasjon",
+                "En organisasjon med 4000 ansatte og seks hierarkiske nivåer anses som en flat organisasjon"
+            ]},
+
+        {
+            "question":"Hva er de tre grunnleggende måtene å lede evner på i organisasjoner?",
+            "solution":"0",
+            "explaination":"Trening, utvelgelse og plassering",
+            "number":"9",
+            "alternatives": [
+                "Trening, utvelgelse og plassering",
+                "Utvelgelse, utvikling og motivasjon",
+                "Ledelse, kartlegging av evner og trening",
+                "Testing, evaluering og motivasjon"
+            ]},
+
+        {
+            "question":"Hva er jobb-berikelse?",
+            "solution":"1",
+            "explaination":"Økning av en ansatts ansvar og kontroll over hans eller hennes arbeid",
+            "number":"10",
+            "alternatives": [
+                "Økning i antall oppgaver en ansatt utfører",
+                "Økning av en ansatts ansvar og kontroll over hans eller hennes arbeid",
+                "Horisontal jobb-lasting ved økning av antall oppgaver på ulike vanskelighetsgrader og ansvarsnivå",
+                "Økning av motivasjon ved å gi tilleggs-goder og ansvar, samt berikelse av arbeidsmiljø"
+            ]},
+
+        {
+            "question":"En bedrift har marginalkostnadene C som er konstante og altså uavhengige av mengden, Q. Hva blir bedriftens variable kostnader?",
+            "solution":"2",
+            "explaination":"",
+            "number":"11",
+            "alternatives": [
+                "C/Q",
+                "C + Q",
+                "C * Q",
+                "Q/C"
+            ]},
+
+        {
+            "question":"En bedrift har totalkostnadene TC, marginalkostnadene MC, variable kostnader VC og faste kostnader FC. Den produserer mengden Q. Hva blir bedriftens gjennomsnittskostnader?",
+            "solution":"0",
+            "explaination":"",
+            "number":"12",
+            "alternatives": [
+                "(VC + FC)/Q",
+                "(TC - MC)/Q",
+                "MC/Q",
+                "FC/Q"
+            ]},
+
+        {
+            "question":"Etterspørselen til en bedrift er gitt ved funksjonen P(Q) der P er prisen og Q er mengden. Hva er da et korrekt uttrykk for marginalinntekten?",
+            "solution":"2",
+            "explaination":"",
+            "number":"13",
+            "alternatives": [
+                "Q * dQ/dP + P",
+                "Q * dQ/dP - P",
+                "Q* dP/dQ + P",
+                "q * dP/dQ - P"
+            ]},
+
+        {
+            "question":"Dersom etterspørselselastisiteten er definert slik at den er et positivt tall for normal etterspørsel og er nøyaktig 1, hva kan vi si om marginalinntekten, MR?",
+            "solution":"1",
+            "explaination":"",
+            "number":"14",
+            "alternatives": [
+                "MR = 1",
+                "MR = 0",
+                "MR > 0",
+                "MR < 0"
+            ]},
+
+        {
+            "question":"Hva er en korrekt tolkning når en økonom sier at etterspørselen er svært elastisk?",
+            "solution":"0",
+            "explaination":"En relativt liten endring i pris gir en relativt stor endring i den mengden kundene ønsker å kjøpe.",
+            "number":"15",
+            "alternatives": [
+                "En relativt liten endring i pris gir en relativt stor endring i den mengden kundene ønsker å kjøpe.",
+                "En relativt stor endring i pris gir en relativt liten endring i den mengden kundene ønsker å kjøpe.",
+                "Etterspørselen varierer relativt mye når inntekten til kundene endres relativt lite.",
+                "Etterspørselen varierer relativt lite når inntekten til kundene endres relativt mye."
+            ]},
+
+        {
+            "question":"En bedrift i et frikonkurransemarked har marginalkostnader gitt ved  der Q er mengden. Den har faste kostnader på 1 000. Hva må prisen i markedet være for at bedriften akkurat skal greie å dekke faste kostnader slik at profitten blir null?",
+            "solution":"2",
+            "explaination":"120",
+            "number":"16",
+            "alternatives": [
+                "80",
+                "100",
+                "120",
+                "140"
+            ]},
+
+        {
+            "question":"Et monopol har marginalkostnader gitt ved MC= 0.2Q + 100 der Q er mengden. Etterspørselen kan skrives som Q = 1020 - 0.1P der Q er mengden og P er prisen. Hvilken mengde, Q, vil monopolet produsere pr. periode?",
+            "solution":"0",
+            "explaination":"500",
+            "number":"17",
+            "alternatives": [
+                "500",
+                "600",
+                "750",
+                "1 000"
+            ]},
+
+        {
+            "question":"Etterspørselen i et duopolmarked der bedriftene opptrer i tråd med Cournot-modellen er gitt ved P = 100 - Q der P er prisen og Q er mengden. Begge bedriftene har marginalkostnader på 10. Hva blir prisen i markedet ved likevekt?",
+            "solution":"1",
+            "explaination":"40",
+            "number":"18",
+            "alternatives": [
+                "10",
+                "40",
+                "55",
+                "70"
+            ]},
+
+        {
+            "question":"Balansepostene for en bedrift er de samme i påfølgende perioder. Alle inntektsposter og kostnadsposter unntatt avskrivningene er også uforandret mellom periodene. Skattesatsen er den samme. Hva blir effekten på egenkapital­rentabilitet og totalkapitalrentabilitet av at avskrivningene øker fra periode én til periode to?",
+            "solution":"0",
+            "explaination":"Både totalkapitalrentabilitet og egenkapitalrentabilitet går ned.",
+            "number":"19",
+            "alternatives": [
+                "Både totalkapitalrentabilitet og egenkapitalrentabilitet går ned.",
+                "Både totalkapitalrentabilitet og egenkapitalrentabilitet går opp.",
+                "Totalkapitalrentabiliteten er uforandret mens egenkapitalrentabiliteten går ned.",
+                "Totalkapitalrentabiliteten er uforandret mens egenkapitalrentabiliteten går opp."
+            ]},
+
+        {
+            "question":"Fra periode én til periode to øker verdi av varelager i balansen til en bedrift mens eiendeler for øvrig og gjeldsposter er uforandret. Hva blir effekten på likviditetsgrad 1 (current ratio) og likviditetsgrad 2 (acid test ratio) av økningen i varelager?",
+            "solution":"1",
+            "explaination":"Likviditetsgrad 1 øker mens likviditetsgrad 2 er uforandret.",
+            "number":"20",
+            "alternatives": [
+                "Begge likviditetsgradene er uforandret.",
+                "Likviditetsgrad 1 øker mens likviditetsgrad 2 er uforandret.",
+                "Likviditetsgrad 1 synker mens likviditetsgrad 2 er uforandret.",
+                "Likviditetsgrad 1 synker mens likviditetsgrad 2 øker."
+            ]},
+
+        {
+            "question":"Et investeringsprosjekt innebærer en investering nå på 100 000 000. Om ett år er for­ventet positiv kontantstrøm 40 000 000, om to år er forventet positiv kontantstrøm på 50 000 000 og, til slutt, om tre år forventes en positiv kontantstrøm på 60 000 000. Dersom avkastningskravet er 12 %, hva blir forventet nettonåverdi for prosjektet?",
+            "solution":"0",
+            "explaination":"18 280 794",
+            "number":"21",
+            "alternatives": [
+                "18 280 794",
+                "22 764 838",
+                "27 533 913",
+                "33 928 571"
+            ]},
+
+        {
+            "question":"Et investeringsprosjekt vil kunne gi positiv kontantstrøm i to år. Det er imidlertid stor usikkerhet knyttet til mulige kontantstrømmer. Bedriften regner med at det er 40 % sannsynlighet for at det går dårlig første år. Da blir kontantstrømmen 0 og prosjektet avsluttes. Dersom det ikke går dårlig første året, er forventet kontantstrøm om ett år 10 000 000 og prosjektet videreføres inn i det andre året. I så fall regner de med at det er like sannsynlig at det vil gi 0 som at det vil gi 20 000 000 to år fra nå. Hva er for­ventet nåverdi av kontantstrømmen når avkastningskravet er 10 % per år?",
+            "solution":"0",
+            "explaination":"10 413 223",
+            "number":"22",
+            "alternatives": [
+                "10 413 223",
+                "10 909 091",
+                "13 719 008",
+                "14 545 455"
+            ]},
+
+        {
+            "question":"Hva er den mest korrekte definisjonen av alternativkostnaden til kapital i forbindelse med nettonåverdiberegninger knyttet til mulige investeringsprosjekter i bedrifter?",
+            "solution":"3",
+            "explaination":"Den beste alternative, forventede avkastningen eierne kan få i markedene med tilsvarende risiko som prosjektet.",
+            "number":"23",
+            "alternatives": [
+                "Den forventede avkastningen i aksjemarkedet.",
+                "Den forventede avkastningen til selskapets totalkapital etter skatt.",
+                "Den forventede avkastningen eierne har på sine investeringsporteføljer.",
+                "Den beste alternative, forventede avkastningen eierne kan få i markedene med tilsvarende risiko som prosjektet."
+            ]},
+
+        {
+            "question":"Hva kjennetegner en risikoavers investor?",
+            "solution":"2",
+            "explaination":"En risikoavers investor ønsker høy forventet avkastning i forhold til risiko, men vil tilpasse nivå på risiko basert på en vurdering av hvor mye ekstra avkastning risiko forventes å gi.",
+            "number":"24",
+            "alternatives": [
+                "En risikoavers investor vil bare gå inn i risikofrie investeringer.",
+                "En risikoavers investor vil alltid prøve å holde en portefølje med beta lik 1.",
+                "En risikoavers investor ønsker høy forventet avkastning i forhold til risiko, men vil tilpasse nivå på risiko basert på en vurdering av hvor mye ekstra avkastning risiko forventes å gi.",
+                "En risikoavers investor vil tilpasse seg slik at ytterligere økning av standardavvik med ett prosentpoeng forventes å gi ett prosentpoeng økt avkastning."
+            ]},
+
+        {
+            "question":"Hva kan vi si om risikoen til en portefølje som er godt diversifisert, men ikke perfekt diversifisert?",
+            "solution":"2",
+            "explaination":"Porteføljen har både markedsrisiko og unik risiko, men den diversifiserbare risikoen er relativt liten i forhold til den ikke-diversifiserbare risikoen.",
+            "number":"25",
+            "alternatives": [
+                "Porteføljen har ingen unik eller ikke-systematisk risiko.",
+                "Porteføljen har bare markedsrisiko, dvs. ikke-diversifiserbar risiko.",
+                "Porteføljen har både markedsrisiko og unik risiko, men den diversifiserbare risikoen er relativt liten i forhold til den ikke-diversifiserbare risikoen.",
+                "Porteføljen har både markedsrisiko og unik risiko, men den diversifiserbare risikoen er relativt stor i forhold til den ikke-diversifiserbare risikoen."
+            ]},
+
+        {
+            "question":"Beta til aksjen til et selskap er 2. Markedsrisikopremien er 6 % og risikofri rente er 3 %. Anta at Capital Asset Pricing Model, dvs. kapitalverdimodellen, er korrekt. Hva er da forventet avkastning til aksjen?",
+            "solution":"3",
+            "explaination":"15 %",
+            "number":"26",
+            "alternatives": [
+                "6 %",
+                "9 %",
+                "12 %",
+                "15 %"
+            ]},
+
+        {
+            "question":"La <img src='img/Ba.png' /> være beta for selskapets aktiva, la <img src='img/Be.png' / være beta for selskapets egenkapital og la <img src='img/Bd.png' / være beta for selskapets gjeld. Markedsverdien av selskapets gjeld er D og markedsverdien av selskapets egenkapital er E. Hva blir da et korrekt uttrykk for selskapets egenkapitalbeta?",
+        "solution":"3",
+    "explaination":"",
+    "number":"27",
+    "alternatives": [
+    "<img src='img/h2014-27a.png' />",
+    "<img src='img/h2014-27b.png' />",
+    "<img src='img/h2014-27c.png' />",
+    "<img src='img/h2014-27d.png' />"
+]},
+
+{
+    "question":"Avkastningen til et selskaps egenkapital er 8 %. Avkastningen til selskapets gjeld er 4 %. Gjeldsandelen er 40 %. Selskapsskattesatsen er 25 %. Hva blir avkastningskravet til totalkapitalen etter skatt, dvs. WACC?",
+    "solution":"2",
+    "explaination":"6,0 %",
+    "number":"28",
+    "alternatives": [
+    "4,0 %",
+    "5,5 %",
+    "6,0 %",
+    "8,0 %"
+]},
+
+{
+    "question":"I forbindelse med verdsetting av et selskap er det vanlig at det blir behov for å finne nåverdien av en kontantstrøm som vokser med en andel, g, hvert år framover i prinsippet i et uendelig antall perioder. Dersom kontantstrømmen neste periode er k, perioden etter k(1+g), neste periode deretter k(1 + g)² osv., hva blir nåverdien av kontantstrømmen når avkastningskravet er r?",
+    "solution":"1",
+    "explaination":"",
+    "number":"29",
+    "alternatives": [
+    "k(1 + g)/r",
+    "k/(r - g)",
+    "k/(g - r)",
+    "k(1+g)/(r - g)"
+]},
+
+{
+    "question":"Du har følgende estimater knyttet til et mulig investeringsprosjekt en bestemt periode i framtida: Kontantstrøm fra drift av prosjektet er 5 000 000, rentekostnader på investeringsbeløpet er 400 000 og selskapsskattesatsen er 28 %. Du skal bruke avkastningskravet til totalkapitalen etter skatt, dvs. WACC som diskonteringsrente. Hvilken kontantstrøm skal du da diskontere den aktuelle perioden?",
+    "solution":"1",
+    "explaination":"3 600 000 ",
+    "number":"30",
+    "alternatives": [
+    "3 312 000",
+    "3 600 000",
+    "3 712 000",
+    "5 000 000"
+]},
+
+],
+
+
+
 
 
 
