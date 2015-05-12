@@ -86,9 +86,9 @@ Template.sidebar.events({
       })));
     }
     else {
-      questions = _.shuffle(_.flatten(_.map(_.pick(exams_data, Session.get('current')), function(questions) {
+      questions = _.flatten(_.map(_.pick(exams_data, Session.get('current')), function(questions) {
         return questions;
-      })));
+      }));
     }
     clearQuestionLayout()
     Session.set('questionNum', 0);
