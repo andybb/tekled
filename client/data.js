@@ -6326,7 +6326,7 @@ exams_data = {
             ]},
 
         {
-            "question":"En bedrift i et frikonkurransemarked har marginalkostnader gitt ved  der Q er mengden. Den har faste kostnader på 1 000. Hva må prisen i markedet være for at bedriften akkurat skal greie å dekke faste kostnader slik at profitten blir null?",
+            "question":"En bedrift i et frikonkurransemarked har marginalkostnader gitt ved MC = 0.2Q + 100 der Q er mengden. Den har faste kostnader på 1 000. Hva må prisen i markedet være for at bedriften akkurat skal greie å dekke faste kostnader slik at profitten blir null?",
             "solution":"2",
             "explaination":"120",
             "number":"16",
@@ -6458,16 +6458,17 @@ exams_data = {
             ]},
 
         {
-            "question":"La <img src='img/Ba.png' /> være beta for selskapets aktiva, la <img src='img/Be.png' / være beta for selskapets egenkapital og la <img src='img/Bd.png' / være beta for selskapets gjeld. Markedsverdien av selskapets gjeld er D og markedsverdien av selskapets egenkapital er E. Hva blir da et korrekt uttrykk for selskapets egenkapitalbeta?",
-        "solution":"3",
-    "explaination":"",
-    "number":"27",
-    "alternatives": [
-    "<img src='img/h2014-27a.png' />",
-    "<img src='img/h2014-27b.png' />",
-    "<img src='img/h2014-27c.png' />",
-    "<img src='img/h2014-27d.png' />"
-]},
+            "question":"La <img src='img/Ba.png' /> være beta for selskapets aktiva, la <img src='img/Be.png' /> være beta for selskapets egenkapital og la <img src='img/Bd.png' /> være beta for selskapets gjeld. Markedsverdien av selskapets gjeld er D og markedsverdien av selskapets egenkapital er E. Hva blir da et korrekt uttrykk for selskapets egenkapitalbeta?",
+            "solution":"3",
+            "explaination":"",
+            "number":"27",
+            "alternatives": [
+                "<img src='img/h2014-27a.png' />",
+                "<img src='img/h2014-27b.png' />",
+                "<img src='img/h2014-27c.png' />",
+                "<img src='img/h2014-27d.png' />"
+            ]
+        },
 
 {
     "question":"Avkastningen til et selskaps egenkapital er 8 %. Avkastningen til selskapets gjeld er 4 %. Gjeldsandelen er 40 %. Selskapsskattesatsen er 25 %. Hva blir avkastningskravet til totalkapitalen etter skatt, dvs. WACC?",
