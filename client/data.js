@@ -5417,6 +5417,369 @@ exams_data = {
 
 ],
 
+    "2013 Kont" : [
+        {
+            "question":"Ta stilling til følgende påstander om finansiering av teknologibedrifter med vekstpotensial. Hvilken påstand er riktig?",
+            "solution":"0",
+            "explaination":"de private bankene vil normalt sett engasjere seg finansielt i de senere…",
+            "number":"1",
+            "alternatives": [
+                "De private bankene vil normalt sett engasjere seg finansielt i de senere fasene ved utviklingen av en teknologibedrift",
+                "I tidlig fase vil bankene som regel være den viktigste finansieringskilden.",
+                "I Norge er finansiering sjelden et problem siden vi har så gode offentlige virkemidler.",
+                "Venturekapital fond er den mest vanlige typen investor i nye vekstbedrifter"
+            ]},
+
+        {
+            "question":"Ta stilling til følgende påstander om venturekapital fond. Hvilken påstand er riktig?",
+            "solution":"1",
+            "explaination":"venturekapitalfond er ofte spesialisert i forhold til fase eller bransje",
+            "number":"2",
+            "alternatives": [
+                "Dette er samarbeid mellom private investorer og offentlige myndigheter som skal støtte opp om etablering av vekstbedrifter.",
+                "Venturekapital fond er ofte spesialisert i forhold til fase eller bransje",
+                "Dette er privatpersoner som går sammen i et uformelt nettverk og investerer direkte i nye teknologibedrifter",
+                "Venturekapital fond investerer normalt sett i mange bransjer og et stort antall bedrifter for å diversifisere risikoen til fondet."
+            ]},
+
+        {
+            "question":"Ta stilling til følgende påstander om nye forskningsbaserte teknologibedrifter med vekstambisjoner. Hvilken påstand er riktig?",
+            "solution":"3",
+            "explaination":"en forskningsbasert teknologibedrift vil i oppstartsfasen ofte oppleve finansiering som en utfordring",
+            "number":"3",
+            "alternatives": [
+                "Alle forskningsbaserte teknologibedrifter som lykkes godt kommersielt har en unik ide som kan beskyttes med patenter eller andre formelle beskyttelsesmekanismer.",
+                "En forskningsbasert teknologibedrift som skal lykkes kommersielt må alltid ha med en investor.",
+                "Det beste er å være alene som entreprenør i oppstartsfasen, da har man kontroll på alt og kan rekruttere de menneskene man trenger.",
+                "En forskningsbasert teknologibedrift vil i oppstartsfasen ofte oppleve finansiering som en utfordring"
+            ]},
+
+        {
+            "question":"Hvilke tre typer av risiko (”investment risks”) omtales ofte i forbindelse med investeringer i potensielle vekstbedrifter?",
+            "solution":"2",
+            "explaination":"Teknologirisiko, agentrisiko og markedsrisiko",
+            "number":"4",
+            "alternatives": [
+                "Konkurrentrisiko, konkursrisiko og teknologirisiko",
+                "Teknologirisiko, konkursrisiko og markedsrisiko",
+                "Teknologirisiko, agentrisiko og markedsrisiko",
+                "Markedsrisiko, agentrisiko og finansrisiko"
+            ]},
+
+        {
+            "question":"Venturekapitalister kan i mange tilfeller bidra med mer enn finanskapital for å utvikle nye teknologibedrifter. Hvilken av fordelene nevnt under blir normalt ikke tilbudt av venturekapitalister?",
+            "solution":"0",
+            "explaination":"bistand i den daglige driften av selskapet ",
+            "number":"5",
+            "alternatives": [
+                "Bistand i den daglige driften av selskapet",
+                "Tilgang til relevante markedskanaler",
+                "Økt legitimitet og tilgang til et større nettverk",
+                "Bidrar til å rekruttere nøkkelpersonell."
+            ]},
+
+        {
+            "question":"Hvilken av påstandene under om radikale innovasjoner er ikke riktige?",
+            "solution":"1",
+            "explaination":"hardt arbeid gir normalt vellykkede resultater",
+            "number":"6",
+            "alternatives": [
+                "Krever evne til å sette sammen ulike inntrykk til en helhet.",
+                "Hardt arbeid gir normalt vellykkete resultater.",
+                "Kan true eksisterende investeringer ved å ta bedriften inn på nye forretningsområder.",
+                "Krever trygghet til å kunne eksperimentere med tilsynelatende urelaterte saker."
+            ]},
+
+        {
+            "question":"Hvilken av følgende påstander beskriver et kjennetegn ved organisk struktur?",
+            "solution":"0",
+            "explaination":"lite definerte roller",
+            "number":"7",
+            "alternatives": [
+                "Lite definerte roller.",
+                "Enkle integrasjonsmekanismer.",
+                "Sentralisering.",
+                "Høyt nivå av standardisering."
+            ]},
+
+        {
+            "question":"Hvilken av påstandene under om produktdivisjonsstruktur er riktig?",
+            "solution":"2",
+            "explaination":"har sentraliserte støttefunksjoner som matcher divisjonene",
+            "number":"8",
+            "alternatives": [
+                "Har operasjonelle komplette divisjoner med støttefunksjoner.",
+                "Har en stab knyttet til hovedkontoret som overvåker divisjonene.",
+                "Har sentraliserte støttefunksjoner som matcher divisjonene.",
+                "Har en enhetlig produksjonsenhet for alle produksjonslinjer."
+            ]},
+
+        {
+            "question":"Hvilken av følgende motivasjonsteorier er opptatt av hvordan enkeltindivider velger handlinger og innsatsnivå?",
+            "solution":"1",
+            "explaination":"forventningsteori",
+            "number":"9",
+            "alternatives": [
+                "Rettferdighetsteori.",
+                "Forventningsteori.",
+                "Behovsteori.",
+                "Samsvarsteori."
+            ]},
+
+        {
+            "question":"De ulike modellene for jobbdesign fokuserer i varierende grad på å øke den indre motivasjon, med unntak av en modell som ikke bryr seg overhode om indre motivasjon. Hvilken?",
+            "solution":"0",
+            "explaination":"Scientific Management ",
+            "number":"10",
+            "alternatives": [
+                "Scientific management.",
+                "Jobbutvidelse.",
+                "Sosial informasjonsprosessering.",
+                "Jobbklassifiseri 4/5"
+            ]},
+
+        {
+            "question":"En bedrift har variable kostnader gitt av VC = 700Q der Q er mengden som produseres. De faste kostnadene er på 2 500 000. Bedriften produserer 10 000 enheter pr periode. Hva er bedriftens totale kostnader?",
+            "solution":"2",
+            "explaination":"9 500 000",
+            "number":"11",
+            "alternatives": [
+                "2 500 000",
+                "7 000 000",
+                "9 500 000",
+                "12 000 000"
+            ]},
+
+        {
+            "question":"Hva blir marginalkostnaden til bedriften i den forrige oppgaven?",
+            "solution":"0",
+            "explaination":"700",
+            "number":"12",
+            "alternatives": [
+                "700",
+                "700Q",
+                "2 500 000",
+                "7 000 000"
+            ]},
+
+        {
+            "question":"Etterspørselen etter produktet til et monopol kan uttrykkes som Q = 1 000 – P der Q er etterspurt mengde og P er prisen pr enhet. Dersom bedriften produserer 250 enheter, hva er da marginalinntekten?",
+            "solution":"2",
+            "explaination":"500",
+            "number":"13",
+            "alternatives": [
+                "0",
+                "250",
+                "500",
+                "750"
+            ]},
+
+        {
+            "question":"Anta at etterspørselselastisiteten defineres slik at den blir et ikke-negativt tall for normal etterspørsel. Hva blir etterspørselselastisiteten i oppgaven over?",
+            "solution":"3",
+            "explaination":"3",
+            "number":"14",
+            "alternatives": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ]},
+
+        {
+            "question":"I et marked selger veldig mange bedrifter et produkt som er homogent slik at kjøperne ikke bryr seg om hvilken bedrift som har produserte det. Alle bedriftene har marginalkostnader som øker med økende produksjon. Dersom vi summerer alle mengdene for hver marginalkostnad, får vi industriens marginalkostnadskurve. Den er gitt som følger: MC = 100 + 0,001Q. Q er total mengde produsert i industrien. Etterspørselen i markedet kan uttrykkes som Q = 100 000 – 0,1P der Q er total etterspurt mengde og P er markedsprisen. Hva blir omsatt mengde i markedet?",
+            "solution":"2",
+            "explaination":"Ca. 100 000",
+            "number":"15",
+            "alternatives": [
+                "Ca. 10 000",
+                "Ca. 50 000",
+                "Ca. 100 000",
+                "Ca. 1 000 000"
+            ]},
+
+        {
+            "question":"Et monopol har totalkostnader gitt av TC = 4000Q + 15 000 000 der Q er produsert mengde. Etterspørselen er gitt ved P = 10 000 – Q/2, der P er prisen og Q er mengden. Hva blir profitten ved optimal tilpasning?",
+            "solution":"1",
+            "explaination":"3 000 000",
+            "number":"16",
+            "alternatives": [
+                "0",
+                "3 000 000",
+                "6 000 000",
+                "12 000 000"
+            ]},
+
+        {
+            "question":"Anta at etterspørselselastisiteten defineres slik at den blir et ikke-negativt tall for normal etterspørsel. Konkurransemyndighetene estimerer at etterspørselselastisiteten i et monopolmarked er 1,25 samtidig som prisen er 1 000 pr enhet. Hva blir da et naturlig anslag på monopolets marginalkostnader?",
+            "solution":"0",
+            "explaination":"200",
+            "number":"17",
+            "alternatives": [
+                "200",
+                "400",
+                "600",
+                "800"
+            ]},
+
+        {
+            "question":"I et duopolmarked tilpasser bedriftene seg i tråd med den såkalte Cournot-modellen. Etter en oppgradering av produksjonsanlegget reduseres marginalkostnadene til den ene av bedriftene. Hvilken effekt vil kostnadsreduksjonen til den ene bedriften ha på likevekten?",
+            "solution":"3",
+            "explaination":"Bedriften som har fått lavere marginalkostnader vil produsere mer, mens den andre vil produsere mindre.",
+            "number":"18",
+            "alternatives": [
+                "Det blir ingen endring i produserte mengder.",
+                "Begge bedriftene vil produsere mer.",
+                "Begge bedriftene vil produsere mindre.",
+                "Bedriften som har fått lavere marginalkostnader vil produsere mer, mens den andre vil produsere mindre."
+            ]},
+
+        {
+            "question":"Eneste eiendel i balansen til en bedrift er en andel i et aksjefond. Andelen var verdt 10 millioner ved inngangen av regnskapsåret. Ved utgangen av regnskapsåret var den verdt 11,2 millioner. Gjennom hele året hadde bedriften en langsiktig gjeld på 5 millioner. Ved inngangen av regnskapsåret var det også den eneste gjeldsposten i balansen. Ved slutten av året er rentene på gjelden for året ført som kortsiktig gjeld på 400 000. (Rentene har altså påløpt i løpet av året, men er ikke blitt betalt.) Utenom skatt hadde bedriften ingen andre inntekts- eller kostnadsposter enn de som er knyttet til gjelden og til andelen i aksjefondet. Anta at selskapet må føre avkastningen til andelen i aksjefondet som inntekt i regnskapet og at selskapsskattesatsen er 25 %. Hva blir totalkapitalrentabiliteten, altså avkastningen på totalkapital, etter skatt når balanseverdiene ved inngangen av regnskapsåret brukes som referanse?",
+            "solution":"2",
+            "explaination":"10 %",
+            "number":"19",
+            "alternatives": [
+                "6 %",
+                "8 %",
+                "10 %",
+                "12 %"
+            ]},
+
+        {
+            "question":"Hva blir avkastningen til egenkapitalen, egenkapitalrentabiliteten, etter skatt for bedriften i oppgaven over når balanseverdiene ved inngangen av året brukes som referanse?",
+            "solution":"1",
+            "explaination":"12 %",
+            "number":"20",
+            "alternatives": [
+                "6 %",
+                "12 %",
+                "18 %",
+                "24 %"
+            ]},
+
+        {
+            "question":"Hva er nåverdien av å få 2 000 000 om to år når avkastningskravet er 10 % pr år?",
+            "solution":"2",
+            "explaination":"1 652 893",
+            "number":"21",
+            "alternatives": [
+                "1 366 027",
+                "1 502 630",
+                "1 652 893",
+                "1 818 181"
+            ]},
+
+        {
+            "question":"Et prosjekt innebærer en investering på 15 000 000 nå. Forventet kontantstrøm om ett år er 8 000 000 og forventet kontantstrøm om to år er 10 000 000. Dersom risikojustert avkastningskrav er 12 %, hva blir nettonåverdien til prosjektet?",
+            "solution":"0",
+            "explaination":"114 796",
+            "number":"22",
+            "alternatives": [
+                "114 796",
+                "306 122",
+                "537 190",
+                "702 479"
+            ]},
+
+        {
+            "question":"En bedrift er i gang med å vurdere et investeringsprosjekt. De er svært usikre på hvor godt produktet de vil lage kommer til å selge. Dersom det viser seg å bli lav etterspørsel, vil de avslutte prosjektet. Som en del av arbeidet, vil de estimere nåverdi av forventet kontantstrøm de første to årene etter prosjektet eventuelt settes i gang. De regner med at det er 40 % sannsynlighet for lav etterspørsel første år. Da er forventet kontantstrøm null og prosjektet avsluttes. Dersom etterspørselen viser seg å være høy første år, noe de altså regner med har sannsynlighet 60 %, er forventet kontantstrøm på slutten av året 5 millioner. Og da regner de med at det er like stor sannsynlighet for høy og lav etterspørsel andre år. Ved lav etterspørsel er igjen forventet kontantstrøm null. Ved høy etterspørsel er den 10 millioner ved slutten av andre år. Avkastningskravet er 10 %. Hva blir forventet nåverdi av kontantstrømmen?",
+            "solution":"3",
+            "explaination":"5 206 612",
+            "number":"23",
+            "alternatives": [
+                "12 809 917",
+                "8 677 686",
+                "6 859 504",
+                "5 206 612"
+            ]},
+
+        {
+            "question":"To verdipapirer har samme risiko målt ved standardavviket til avkastningene. De er ikke perfekt korrelerte, slik at ved å kombinere de to verdipapirene i en portefølje får vi effekten som kalles diversifisering. Hva kan vi da si om risikoen til en portefølje som består kun av de to verdipapirene?",
+            "solution":"1",
+            "explaination":"Standardavviket til porteføljen blir mellom null og standardavviket til verdipapirene.",
+            "number":"24",
+            "alternatives": [
+                "Standardavviket til porteføljen blir null.",
+                "Standardavviket til porteføljen blir mellom null og standardavviket til verdipapirene.",
+                "Standardavviket til porteføljen blir mellom 1 og 2 ganger standardavviket til verdipapirene.",
+                "Standardavviket til porteføljen blir akkurat lik summen av standardavvikene til de to verdipapirene i den."
+            ]},
+
+        {
+            "question":"Anta at kapitalverdimodellen, CAPM, gir en god beskrivelse av virkeligheten. Hva er da den mest korrekte alternativkostnaden til kapital investert i et risikofylt prosjekt?",
+            "solution":"0",
+            "explaination":"Forventet avkastning til verdipapirer med tilsvarende markedsrisiko (også kalt ikke-diversifiserbar risiko) som investeringen.",
+            "number":"25",
+            "alternatives": [
+                "Forventet avkastning til verdipapirer med tilsvarende markedsrisiko (også kalt ikke-diversifiserbar risiko) som investeringen.",
+                "Forventet avkastning til verdipapirer med samme standardavvik som investeringen.",
+                "Forventet avkastning til verdipapirer med samme unike risiko (også kalt diversifiserbar risiko) som investeringen.",
+                "Forventet avkastning til statsobligasjoner utstedt i samme valuta som kontantstrømmene til investeringen er i."
+            ]},
+
+        {
+            "question":"Kapitalverdimodellen, eller Capital Asset Pricing Model (CAPM), gir en sammen­heng mellom størrelsen kalt beta, forventet avkastning på en investering, risikofri avkastning og forventet avkastning i markedet. Anta at beta for en aksje er 2,5. Forventet markedsavkastning er 8 % og risikofri rente er 3 %. Hva blir da forventet avkastning for aksjen i følge CAPM?",
+            "solution":"2",
+            "explaination":"15,5 %",
+            "number":"26",
+            "alternatives": [
+                "3,0 %",
+                "8,0 %",
+                "15,5 %",
+                "23,0 %"
+            ]},
+
+        {
+            "question":"Et selskap har gjeldsandel på 50 %. Selskapets aksjer har beta på 1,5. Selskapets gjeld har beta på 0,5. Hva blir beta for selskapets aktiva?",
+            "solution":"1",
+            "explaination":"1,0",
+            "number":"27",
+            "alternatives": [
+                "0,5",
+                "1,0",
+                "1,25",
+                "1,5"
+            ]},
+
+        {
+            "question":"Renten på gjelden til et selskap er 4 %. Selskapsskattesatsen er 25 %, og selskapet betaler selskapsskatt alle år. Hva blir gjeldsrenten etter skatt?",
+            "solution":"2",
+            "explaination":"3 %",
+            "number":"28",
+            "alternatives": [
+                "1 %",
+                "2 %",
+                "3 %",
+                "4 %"
+            ]},
+
+        {
+            "question":"Markedsverdien av egenkapitalen til et selskap er 2 milliarder og selskapet har gjeld på 1 milliard. Forventet avkastning på selskapets aksjer er 10 % og avkastningen på gjelden er 5 %. Selskapsskattesatsen er 28 %. Hva blir WACC, det vil si totalkapitalens forventede avkastning etter skatt?",
+            "solution":"0",
+            "explaination":"7,9 %",
+            "number":"29",
+            "alternatives": [
+                "7,9 %",
+                "8,3 %",
+                "9,5 %",
+                "10,0 %"
+            ]},
+
+        {
+            "question":"Hvilket utsagn om beregning av kontantstrøm ved bruk av WACC, totalkapitalens avkastningskrav etter skatt, som diskonteringsrente er mest korrekt?",
+            "solution":"3",
+            "explaination":"Kontantstrømmen skal da reflektere at skatt er beregnet som om prosjektet er egenkapitalfinansiert.  ",
+            "number":"30",
+            "alternatives": [
+                "Kontantstrømmen skal da tilsvare regnskapsført overskudd etter skatt.",
+                "Kontantstrømmen skal da tilsvare regnskapsført overskudd etter skatt pluss betalte renter.",
+                "Kontantstrømmen skal da tilsvare regnskapsført overskudd før skatt pluss betalte renter.",
+                "Kontantstrømmen skal da reflektere at skatt er beregnet som om prosjektet er egenkapitalfinansiert."
+            ]}
+
+    ],
+
 
 "2014 Vår" : [
 {
