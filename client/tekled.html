@@ -56,14 +56,12 @@
   <div class="hero-unit well">
   {{#with currentQuestion}}
   <h3>Oppgave {{questionNum}} av {{numberOfQuestions}}</h3>
-  {{#mathjax}}
-  <p class="lead">{{{question}}}</p>
-  <button id="0" class="btn btn-default submit-answer"><p>a) {{{alternatives.[0]}}}</p></button><br />
-  <button id="1" class="btn btn-default submit-answer"><p>b) {{{alternatives.[1]}}}</p></button><br />
-  <button id="2" class="btn btn-default submit-answer"><p>c) {{{alternatives.[2]}}}</p></button><br />
-  <button id="3" class="btn btn-default submit-answer"><p>d) {{{alternatives.[3]}}}</p></button>
-  <p>{{#if explanation}} Forklaring: {{explanation}} {{/if}}</p>
-  {{/mathjax}}
+  <p class="lead">{{#mathjax}}{{{question}}}{{/mathjax}}</p>
+  <button id="0" class="btn btn-default submit-answer"><p>a) {{#mathjax}}{{{alternatives.[0]}}}{{/mathjax}}</p></button><br />
+  <button id="1" class="btn btn-default submit-answer"><p>b) {{#mathjax}}{{{alternatives.[1]}}}{{/mathjax}}</p></button><br />
+  <button id="2" class="btn btn-default submit-answer"><p>c) {{#mathjax}}{{{alternatives.[2]}}}{{/mathjax}}</p></button><br />
+  <button id="3" class="btn btn-default submit-answer"><p>d) {{#mathjax}}{{{alternatives.[3]}}}{{/mathjax}}</p></button>
+  <p>{{#if explanation}} Forklaring: {{#mathjax}}{{explanation}}{{/mathjax}} {{/if}}</p>
   {{/with}}
   </div>
   <div id="summary" >
