@@ -131,16 +131,18 @@ function finished() {
 
 function calculateGrade(correct, total) {
     var percent = 100*correct/total;
+    var grade = "";
     if (percent >= 90)
-        return "A";
+        grade = "A";
     if (percent >= 80)
-        return "B";
+        grade = "B";
     if (percent >= 60)
-        return "C";
+        grade = "C";
     if (percent >= 50)
-        return "D";
+        grade= "D";
     if (percent >= 40)
-        return "E";
+        grade = "E";
     else
-        return "F (" + percent.toFixed(1) + " %)";
+        grade = "F";
+    return grade + " (" + percent.toFixed(1) + " %)";
 }
