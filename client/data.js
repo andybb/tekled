@@ -5780,6 +5780,369 @@ exams_data = {
 
     ],
 
+    "2013 Vår" : [
+        {
+            "question":"Som kjent kan finansiering være en betydelig utfordring for mange bedrifter. Hvilken av følgende påstander er korrekt om finansiering av kunnskapsbedrifter med vekstpotensial?",
+            "solution":"2",
+            "explaination":"bankenes krav til sikkerhet gjør at de i liten grad vil eksponere seg finansielt…",
+            "number":"1",
+            "alternatives": [
+                "I tidlig fase vil bankene normalt være den mest sentrale kilden til finanskapital.",
+                "Forretningsbankene engasjerer seg ofte finansielt i tidlig fase og går ofte inn med eierkapital, mens sparebankene kommer mer på banen i senere faser av livsløpet.",
+                "Bankenes krav til sikkerhet gjør at de i liten grad vil eksponere seg finansielt i tidlig fase.",
+                "Alle bedrifter som ønsker vekst bør ha venturekapitalfond som hovedeiere."
+            ]},
+
+        {
+            "question":"Hvilken av følgende påstander er korrekt om kunnskapsbaserte bedrifter som har vekstambisjoner?",
+            "solution":"2",
+            "explaination":"en oppstart som gjøres av et tverrfaglig team lykkes som regel best kommersielt",
+            "number":"2",
+            "alternatives": [
+                "Bedrifter som lykkes godt kommersielt har nesten alltid en ide som kan beskyttes med patenter eller andre formelle beskyttelsesmekanismer.",
+                "Det beste er å være alene som entreprenør i oppstarten, da har man kontroll på alt og kan rekruttere de menneskene man trenger.",
+                "En oppstart som gjøres av et tverrfaglig team lykkes som regel best kommersielt.",
+                "En teknologibedrift som skal vokse må som hovedregel ha med seg et venturekapitalfond på eiersiden."
+            ]},
+
+        {
+            "question":"Det finnes ulike typer aktører som kan bidra med kapital i en oppstartsfase. Hvilken av følgende påstander er korrekt om såkalte ”business angels”",
+            "solution":"1",
+            "explaination":"er aktive eiere som kan tilføre bedriften ”knappe ressurser”…",
+            "number":"3",
+            "alternatives": [
+                "Er som hovedregel passive eiere som kun tilfører finansiell kapital.",
+                "Er aktive eiere som kan tilføre bedriften ”knappe ressurser” i form finanskapital, erfaring og nettverk.",
+                "Vil som hovedregel eie majoriteten av aksjene i bedriften slik at det har mulighet til bruke sin kompetanse og erfaring for utvikle bedriften videre og derved øke sannsynligheten for at bedriften lykkes kommersielt.",
+                "Er private konsulenter som mottar offentlig støtte for å bistå bedrifter i tidlig fase."
+            ]},
+
+        {
+            "question":"Hva er normalt sett rekkefølgen når disse aktørene investerer i potensielle vekstbedrifter?",
+            "solution":"1",
+            "explaination":"Entreprenør; familie og venner; Business Angels, venturekapitalfond",
+            "number":"4",
+            "alternatives": [
+                "Entreprenør, venturekapitalfond, familie og venner, Business Angels.",
+                "Entreprenør, familie og venner, Business Angels, venturekapitalfond",
+                "Venturekapitalfond, Business Angels, entreprenør, familie og venner",
+                "Entreprenør, Business Angels, familie og venner, venturekapitalfond"
+            ]},
+
+        {
+            "question":"Det finnes ulike typer ”investment risks”. Hvilke ”investment risks” omtales ofte i forbindelse med investeringer i potensielle vekstbedrifter?",
+            "solution":"1",
+            "explaination":"Teknologisk risiko, markedsrisiko og agentrisiko",
+            "number":"5",
+            "alternatives": [
+                "Konkurranserisiko, økonomisk risiko og ikke minst konkursrisiko",
+                "Teknologisk risiko, markedsrisiko og agentrisiko",
+                "Teknologirisiko, konkursrisiko, og markedsrisiko",
+                "Konkurrentrisiko, markedsrisiko og kapitalrisiko"
+            ]},
+
+        {
+            "question":"Et nyttig verktøy i forhold til å kontrollere innovasjonsaktiviteten er en stage-gate modell. Hvilken av påstandene under er ikke riktig?",
+            "solution":"1",
+            "explaination":"Den første evalueringen av en prosjektide krever en liste…",
+            "number":"6",
+            "alternatives": [
+                "Innovative selskaper kan gi ansatte tid til å jobbe på egne prosjektideer.",
+                "Den første evalueringen av en prosjektide krever en liste over tekniske, finansielle og menneskelige behovet, detaljert utviklingsbudsjett og tidsplan.",
+                "Prosjektideer som evalueres for andre gang i modellen kan enten avvises, revideres, selges, eller sendes videre til tredje utviklingsfase.",
+                "Hovedformålet med denne modellen er å fokusere begrensede tekniske, finansielle og menneskelige ressurser til et fåtall utviklingsprosjekter for å øke sannsynligheten for at de skal bli vellykket."
+            ]},
+
+        {
+            "question":"Hvilken av følgende begreper er ikke en del av horisontal differensiering?",
+            "solution":"0",
+            "explaination":"Sentralisering",
+            "number":"7",
+            "alternatives": [
+                "Sentralisering.",
+                "Arbeidsdeling.",
+                "Spesialisering.",
+                "Økt produktivitet."
+            ]},
+
+        {
+            "question":"Hvilken av følgende påstander beskriver ikke en potensiell ulempe med byråkratisk struktur?",
+            "solution":"3",
+            "explaination":"Utydelig rolle- og ansvarsfordeling",
+            "number":"8",
+            "alternatives": [
+                "Liten kontroll med veksten i hierarkiet.",
+                "Liten respons i forhold til kunder og interessenter.",
+                "Regler og prosedyrer viktigere enn det overordnete målet.",
+                "Utydelig rolle- og ansvarsfordeling."
+            ]},
+
+        {
+            "question":"Når har personligheten til den enkelte størst betydning for kvaliteten på jobbprestasjonen?",
+            "solution":"3",
+            "explaination":"Når det situasjonelle presset er svakt",
+            "number":"9",
+            "alternatives": [
+                "Når det situasjonelle presset er sterkt.",
+                "Når nærmeste leder er utadvendt.",
+                "Når arbeidstakeren er utadvendt.",
+                "Når det situasjonelle presset er svakt."
+            ]},
+
+        {
+            "question":"Hvilken av de følgende modellene for jobbdesign har som hovedmål å maksimere jobbprestasjonen gjennom jobbforenkling og - spesialisering?",
+            "solution":"0",
+            "explaination":"Scientific Management",
+            "number":"10",
+            "alternatives": [
+                "Scientific management.",
+                "Jobbutvidelse.",
+                "Jobberikelse.",
+                "Jobbklassifisering"
+            ]},
+
+        {
+            "question":"Endringen i totalkostnader pr enhets endring i produsert mengde kalles for:",
+            "solution":"3",
+            "explaination":"Marginalkostnader.",
+            "number":"11",
+            "alternatives": [
+                "Gjennomsnittskostnader.",
+                "Faste kostnader.",
+                "Variable enhetskostnader.",
+                "Marginalkostnader."
+            ]},
+
+        {
+            "question":"En bedrift oppfatter prisen som gitt, det vil si som uavhengig av hvor mye den selv produserer. Hva kan vi da si om hvordan bedriftens oppfatter sin marginalinntekt?",
+            "solution":"0",
+            "explaination":"Marginalinntekten er lik markedsprisen på produktet.",
+            "number":"12",
+            "alternatives": [
+                "Marginalinntekten er lik markedsprisen på produktet.",
+                "Marginalinntekten er lavere enn markedsprisen på produktet.",
+                "Marginalinntekten er høyere enn markedsprisen på produktet.",
+                "Marginalinntekten er lik forskjellen mellom endringen i inntekter og endringen i kostnader for en enhets økning i pris."
+            ]},
+
+        {
+            "question":"Etterspørselen i et marked kan uttrykkes som Q = 100 – 2P, der Q er mengden og P er prisen. Hva blir marginalinntekten?",
+            "solution":"2",
+            "explaination":"50 – Q",
+            "number":"13",
+            "alternatives": [
+                "100 – 2P",
+                "100 – 4P",
+                "50 – Q",
+                "50 – 2Q"
+            ]},
+
+        {
+            "question":"Hva er den mest korrekte definisjonen på begrepet etterspørselselastisitet?",
+            "solution":"2",
+            "explaination":"Prosentvis endring i mengde i forhold til prosentvis endring i pris når pris endres med en liten enhet.",
+            "number":"14",
+            "alternatives": [
+                "Den deriverte av totalinntekten.",
+                "Forholdet mellom endring i produsert mengde og endring i pris når prisen endres med en enhet.",
+                "Prosentvis endring i mengde i forhold til prosentvis endring i pris når pris endres med en liten enhet.",
+                "Prosentvis endring i mengde minus prosentvis endring i pris når pris endres med en liten enhet."
+            ]},
+
+        {
+            "question":"En bedrift i et frikonkurransemarked har marginalkostnadene MC = 100 + 0,1Q der Q er produsert mengde pr periode. Dersom prisen i markedet er 1 100, hvor mye vil bedriften produsere?",
+            "solution":"3",
+            "explaination":"10 000",
+            "number":"15",
+            "alternatives": [
+                "2 500",
+                "5 000",
+                "7 500",
+                "10 000"
+            ]},
+
+        {
+            "question":"Et monopol har marginalkostnader (også kalt grensekostnader) på 1 000. Etterspørselen er gitt ved P = 10 000 – Q, der P er prisen og Q er mengden. Hva blir total mengde tilbudt av monopolet?",
+            "solution":"2",
+            "explaination":"4 500",
+            "number":"16",
+            "alternatives": [
+                "10 000",
+                "9 000",
+                "4 500",
+                "2 500"
+            ]},
+
+        {
+            "question":"I et duopolmarked er etterspørselen gitt ved Q = 100 – P, der P er prisen og Q er total mengde i markedet. Anta at de to bedriftene har konstante marginalkostnader på c, opptrer i tråd med Cournot-modellen og produserer mengdene<img src='img/Q1.png' /> og <img src='img/Q2.png' />. Reaksjonsfunksjonen uttrykker bedriftens beste svar på den andre bedriftens strategi. Hva blir et korrekt uttrykk for reaksjonsfunksjonen til bedriften som produserer mengden <img src='img/Q1.png' />?",
+            "solution":"0",
+            "explaination":"",
+            "number":"17",
+            "alternatives": [
+                "<img src='img/Q1.png' />= (100 - <img src='img/Q2.png' />  -c)/2",
+                "<img src='img/Q1.png' />= (1000 - <img src='img/Q2.png' />  -c)/3",
+                "<img src='img/Q1.png' />= (100 - 2<img src='img/Q2.png' />  -c)/2",
+                "<img src='img/Q1.png' />= (100 - 2<img src='img/Q2.png' /> -c)/3"
+            ]},
+
+        {
+            "question":"I et duopolmarked er etterspørselen gitt ved Q = 100 – P, der P er prisen og Q er total mengde i markedet. Anta at de to bedriftene har konstante marginalkostnader på c, opptrer i tråd med Cournot-modellen og produserer mengdene <img src='img/Q1.png' /> og <img src='img/Q2.png' />. Hva blir et korrekt uttrykk mengden <img src='img/Q1.png' />som den ene bedriften produserer i likevekt?",
+            "solution":"3",
+            "explaination":"",
+            "number":"18",
+            "alternatives": [
+                "<img src='img/Q1.png' /> =  (100 - 2c)/3",
+                "<img src='img/Q1.png' /> = (100-c)/4",
+                "<img src='img/Q1.png' /> = (100- <img src='img/Q2.png' /> - c )/2",
+                "<img src='img/Q1.png' /> = (100-c)/3"
+            ]},
+
+        {
+            "question":"I balansen til et selskap er omløpsmidlene på totalt 900 millioner rapportert som følger: Likvider: 100, Varelager: 500, Fordringer: 300. Gjelden på totalt 2 milliarder er fordelt som følger: Langsiktig gjeld: 1 500, Kortsiktig gjeld: 500. Hva er likviditetsgrad 2 (Acid Test Ratio) for selskapet?",
+            "solution":"2",
+            "explaination":"0,80",
+            "number":"19",
+            "alternatives": [
+                "0,25",
+                "0,45",
+                "0,80",
+                "1,40"
+            ]},
+
+        {
+            "question":"Selskapet i oppgaven over har verdi av totale aktiva på 4 milliarder. Hva er da sel­skapets gjeldsandel?",
+            "solution":"1",
+            "explaination":"0,5",
+            "number":"20",
+            "alternatives": [
+                "0,2",
+                "0,5",
+                "1,0",
+                "2,0"
+            ]},
+
+        {
+            "question":"Hva er nåverdien av å få 1 000 000 om fire år når diskonteringsrenten er 10 % pr år?",
+            "solution":"1",
+            "explaination":"683 013",
+            "number":"21",
+            "alternatives": [
+                "620 921",
+                "683 013",
+                "751 413",
+                "909 091"
+            ]},
+
+        {
+            "question":"Et prosjekt innebærer en investering på 500 000 nå. Etter ett år gir det en forventet netto kontantstrøm på 400 000. Etter to år gir det enten en negativ netto kontantstrøm på 200 000 eller en positiv netto kontantstrøm på 600 000. Sannsynligheten for å få den negative kontantstrømmen det andre året er 40 %. Avkastningskravet er 10 %. Hva blir nettonåverdien til prosjektet?",
+            "solution":"2",
+            "explaination":"Ca 95 000",
+            "number":"22",
+            "alternatives": [
+                "Ca 500 000.",
+                "Ca 118 000.",
+                "Ca 95 000.",
+                "Ca –37 000."
+            ]},
+
+        {
+            "question":"Et prosjekt som innebærer en investering, det vil si en negativ kontantstrøm, først og så bare positive kontantstrømmer alle perioder i resten av prosjektets levetid, har en internrente på 10 %. Hva kan vi da si om beregnet nettonåverdi, NNV, for prosjektet?",
+            "solution":"0",
+            "explaination":"Med diskonteringsrente på 10 % er nettonåverdien null, og nettonåverdien er større enn null for lavere diskonteringsrenter.",
+            "number":"23",
+            "alternatives": [
+                "Med diskonteringsrente på 10 % er nettonåverdien null, og nettonåverdien er større enn null for lavere diskonteringsrenter.",
+                "Med diskonteringsrente på 10 % er nettonåverdien null, og nettonåverdien er større enn null for høyere diskonteringsrenter.",
+                "Med diskonteringsrente på 10 % er nettonåverdien lik investeringsbeløpet, og nettonåverdien øker med  lavere diskonteringsrenter.",
+                "Med diskonteringsrente på 10 % er nettonåverdien lik investeringsbeløpet, og nettonåverdien synker med  lavere diskonteringsrenter."
+            ]},
+
+        {
+            "question":"Hvilket utsagn om diversifisering er mest korrekt for vanlige verdipapirporteføljer?",
+            "solution":"3",
+            "explaination":"Diversifiseringseffekten reduserer unik risiko, men ikke beta, slik at risikoen blir lavere i forhold til forventet avkastning enn den ellers ville vært.",
+            "number":"24",
+            "alternatives": [
+                "Diversifiseringseffekten gjør at porteføljens beta blir lavere slik at forventet avkastning også blir lavere.",
+                "Diversifiseringseffekten gjør at porteføljens beta blir høyere slik at forventet avkastning også blir høyere.",
+                "Diversifiseringseffekten eliminerer systematisk risiko slik at risikoen blir lavere i forhold til forventet avkastning enn den ellers ville vært!",
+                "Diversifiseringseffekten reduserer unik risiko, men ikke beta, slik at risikoen blir lavere i forhold til forventet avkastning enn den ellers ville vært."
+            ]},
+
+        {
+            "question":"Avkastningen til to aksjer har samme standardavvik. Avkastningen til den ene varierer så å si uavhengig av markedet, mens avkastningen til den andre har en klar tendens til å variere i takt med markedet. Hva kan vi si, basert på kapitalverdimodellen, eller Capital Asset Pricing Model (CAPM), om risikopremien til de to aksjene?",
+            "solution":"1",
+            "explaination":"Aksjen med avkastning som tenderer til å variere i takt med markedet vil ha høyere beta enn den andre og derfor også en høyere risikopremie.",
+            "number":"25",
+            "alternatives": [
+                "Siden risikoen er den samme, blir både beta og risikopremien den samme for de to aksjene.",
+                "Aksjen med avkastning som tenderer til å variere i takt med markedet vil ha høyere beta enn den andre og derfor også en høyere risikopremie.",
+                "Aksjen med avkastning som varierer nesten uavhengig av markedet vil ha høyere beta enn den andre og derfor også en høyere risikopremie.",
+                "Risikopremien til en portefølje av de to aksjene vil være høyere enn risikopremien til den av aksjene som har høyest risikopremie."
+            ]},
+
+        {
+            "question":"Kapitalverdimodellen, eller Capital Asset Pricing Model (CAPM), gir en sammen­heng mellom størrelsen kalt beta, forventet avkastning på en investering, risikofri avkastning og forventet avkastning i markedet. Anta at beta for en aksje er 2. Forventet markedsavkastning er 9 % og risikofri rente er 5 %. Hva blir da forventet avkastning for aksjen i følge CAPM?",
+            "solution":"2",
+            "explaination":"13 %",
+            "number":"26",
+            "alternatives": [
+                "4 %",
+                "8 %",
+                "13 %",
+                "22 %"
+            ]},
+
+        {
+            "question":"Anta at et selskap har gjelden D og kommer til å ha den for all framtid. Anta også at selskapet betaler renten r på denne gjelden for all framtid og at selskapsskattesatsen vil være T for all framtid. Gitt at verdien av skattefordelen av gjeld skal diskonteres med samme rente som gjeldsrenten, det vil si r, hva blir nåverdien av skattefordelen av gjeld?",
+            "solution":"0",
+            "explaination":"D·T",
+            "number":"27",
+            "alternatives": [
+                "D·T",
+                "D(1 – T)",
+                "D·r·T/(1+r)",
+                "D·r(1 – T)/(1+r)"
+            ]},
+
+        {
+            "question":"Aksjen til et selskap har en forventet avkastning på 10 %. Avkastningen på selskapets gjeld er 4 %. Skattesatsen er 25 %. Gjelden til selskapet tilsvarer halvparten av verdien til aktiva. Hva blir selskapets WACC?",
+            "solution":"1",
+            "explaination":"6,5 %",
+            "number":"28",
+            "alternatives": [
+                "4,0 %",
+                "6,5 %",
+                "7,0 %",
+                "13,0 %"
+            ]},
+
+        {
+            "question":"Du har følgende opplysninger om kontantstrømmene knyttet til et prosjekt for et gitt år: Positiv kontantstrøm fra drift er 2 500 000, rentekostnadene er 400 000, avdrag på lån som skal betales er på 200 000 og selskapsskattesatsen er 25 %. Hvilken kontantstrøm skal gå inn i en nettonåverdiberegning der WACC brukes som avkastningskrav?",
+            "solution":"0",
+            "explaination":"1 875 000",
+            "number":"29",
+            "alternatives": [
+                "1 875 000",
+                "1 625 000",
+                "1 125 000",
+                "937 500"
+            ]},
+
+        {
+            "question":"Et selskap med gjeldsandel på 80 % har forventet avkastning på aktiva på 12 % og for­ventet avkastning på gjeld på 6 %. Hva blir forventet avkastning på egenkapital?",
+            "solution":"3",
+            "explaination":"36 % ",
+            "number":"30",
+            "alternatives": [
+                "6 %",
+                "12 %",
+                "24 %",
+                "36 %"
+            ]},
+
+    ],
+
 
 "2014 Vår" : [
 {
