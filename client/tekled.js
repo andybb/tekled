@@ -5,9 +5,23 @@ Session.setDefault('answered', false);
 Session.setDefault('current', 'Alle');
 Session.setDefault('explanation', '');
 
-var exams = _.map(_.keys(exams_data), function(exam) {
-  return {'title': exam};
-});
+var exams = _.map(
+  _.keys(exams_data), function(exam) {
+    return {'title': exam};
+  })
+  .sort(function(a, b) {
+    // sort on year, i.e 2014, 2013
+    var year_a = parseInt(a.title.substr(0,4));
+    var year_b = parseInt(b.title.substr(0,4));
+    if (year_a > year_b) {
+      return 1;
+    }
+    else if (year_a < year_b) {
+      return -1;
+    }
+    // sort on time in year, i.e K, V, H
+    return a.title.substr(5,1) > b.title.substr(5,1) ? -1 : 1;
+  });
 
 var questions = _.shuffle(_.flatten(_.values(exams_data)));
 
