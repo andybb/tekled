@@ -11,7 +11,7 @@ Can be seen live at [tekled.meteor.com](http://tekled.meteor.com)
 1. Install [Meteor](https://www.meteor.com/) 
 2. Get all the files and start the server:
 ```bash
-$ git clone git@github.com:andybb/tekled.git
+$ git clone git@github.com:andybb/tekled-ng.git
 $ cd tekled
 $ meteor
 ```
